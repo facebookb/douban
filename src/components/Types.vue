@@ -37,11 +37,6 @@
 </script>
 
 <style scoped>
-  ul, li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
   .types {
     margin-top: 10px;
   }
@@ -64,7 +59,8 @@
   }
   li {
     float: left;
-    width: 40%;
+    box-sizing:border-box;
+    width: 50%;
     padding-right: 18px;
     height: 42px;
     line-height: 42px;

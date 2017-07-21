@@ -73,11 +73,6 @@ ul {
   margin: 0;
   padding: 8px 0;
 }
-li {
-  list-style: none;
-  padding: 0;
-}
-
 .hasCover {
   overflow-x: auto;
   white-space: nowrap;
