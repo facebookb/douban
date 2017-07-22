@@ -2,11 +2,11 @@
   <div class="sub-nav">
     <div class="navBottom" v-if="navBottom">
       <div class="nav-item">
-        <a href="#">注册帐号</a><!-- replace blank
-        --><a href="#">登录豆瓣</a>
+        <a href="https://accounts.douban.com/register">注册帐号</a><!-- replace blank
+        --><a href="https://accounts.douban.com/login">登录豆瓣</a>
       </div>
       <div class="nav-item">
-        <a href="#">使用桌面版</a><!-- replace blank
+        <a href="https://movie.douban.com/">使用桌面版</a><!-- replace blank
         --><a href="#">使用豆瓣App</a>
       </div>
     </div>
