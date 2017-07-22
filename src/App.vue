@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <header-bar></header-bar>
-    <router-view></router-view>
+    <router-view class="view"></router-view>
+    <router-view class="view" name="subject"></router-view>
   </div>
 </template>
 
 <script>
-  import HeaderBar from "./components/HeaderBar.vue"
 export default {
   name: 'app',
-  components:{ HeaderBar }
 }
 </script>
 

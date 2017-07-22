@@ -57,7 +57,7 @@ export default {
     display: inline-block;
     margin: 0 auto;
     box-sizing: border-box;
-    font-size: 1.5rem;
+    /*font-size: 1.5rem;*/
     color: #42bd56;
 
     &:first-child {
@@ -76,13 +76,13 @@ export default {
       width: 50%;
       padding: 0.3rem;
       box-sizing: border-box;
-      font-size: 1.5rem;
+      /*font-size: 1.5rem;*/
     }
 
     a {
       display: block;
       max-width: 100%;
-      padding: 1.2rem 0;
+      padding: 0.5rem 0;
       line-height: 2rem;
       text-align: center;
       background-color: #f6f6f6;
